@@ -97,5 +97,5 @@ Fix:
 ## Screenshots
 
 ![Nmap](screenshots/nmap.png)
-![Telnet](screenshots/sqli.png)
-![SQL Injection](screenshots/cmd.png)
+![SQL Injection](screenshots/sqli.png)
+![Command Execution](screenshots/cmd.png)
