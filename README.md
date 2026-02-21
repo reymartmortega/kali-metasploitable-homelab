@@ -96,6 +96,6 @@ Fix:
 
 ## Screenshots
 
-![Nmap](screenshots/nmap.png)
-![SQL Injection](screenshots/sqli.png)
-![Command Execution](screenshots/cmd.png)
+![Nmap](screenshots/nmap.PNG)
+![SQL Injection](screenshots/sqli.PNG)
+![Command Execution](screenshots/cmd.PNG)
