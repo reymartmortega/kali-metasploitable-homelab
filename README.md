@@ -93,3 +93,9 @@ Fix:
 - Password harvesting
 - Web application security testing
 - Basic incident understanding
+
+## Screenshots
+
+![Nmap](screenshots/nmap.png)
+![Telnet](screenshots/sqli.png)
+![SQL Injection](screenshots/cmd.png)
