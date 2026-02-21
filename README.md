@@ -1,6 +1,6 @@
 # Vulnerability Assessment and OWASP Web Testing Lab
 
-This is my beginner cybersecurity homelab project using Kali Linux and Metasploitable.
+This is my cybersecurity homelab project using Kali Linux and Metasploitable.
 I built this lab to practice penetration testing, vulnerability assessment, and basic web security testing.
 
 Everything was done locally on my laptop using virtual machines.
