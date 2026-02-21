@@ -31,6 +31,8 @@ Example:
 - HTTP
 - SMB
 - MySQL
+  
+![Nmap](screenshots/nmap.PNG)
 
 ### 2. Initial Access
 
@@ -71,6 +73,8 @@ Each test was done manually from the browser.
 Fix:
 - Use parameterized queries
 
+![SQL Injection](screenshots/sqli.PNG)
+
 ### XSS (Medium)
 - Payload: <script>alert('xss')</script>
 
@@ -84,6 +88,8 @@ Fix:
 Fix:
 - Sanitize system calls
 
+![Command Execution](screenshots/cmd.PNG)
+
 ## Skills Practiced
 
 - Network scanning
@@ -93,9 +99,3 @@ Fix:
 - Password harvesting
 - Web application security testing
 - Basic incident understanding
-
-## Screenshots
-
-![Nmap](screenshots/nmap.PNG)
-![SQL Injection](screenshots/sqli.PNG)
-![Command Execution](screenshots/cmd.PNG)
