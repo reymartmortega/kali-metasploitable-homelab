@@ -93,9 +93,3 @@ Fix:
 - Password harvesting
 - Web application security testing
 - Basic incident understanding
-
-## Disclaimer
-
-This lab was created for learning purposes only.
-
-All testing was done on intentionally vulnerable virtual machines that I own.
